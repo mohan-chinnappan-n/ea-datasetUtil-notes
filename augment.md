@@ -133,4 +133,4 @@ Enter the Field to select from right Dataset (Comma seperated numbers): 1,2,3
 ```
 ## Augmented Dataset content
 
-![Dataset Augmented](img/fruitPriceStock)
+![Dataset Augmented](img/fruitPriceStock-2.png)
